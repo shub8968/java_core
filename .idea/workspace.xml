@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28ececb4-5e02-4af7-85a0-a815b633fdca" name="Changes" comment="" />
+    <list default="true" id="28ececb4-5e02-4af7-85a0-a815b633fdca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/concepts/patterns/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concepts/patterns/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concepts/patterns/pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concepts/patterns/pattern4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,7 +58,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4586207" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.pattern4">
     <configuration name="PassByRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concepts.java.PassByRefDemo" />
       <module name="bhagvati.basic" />
@@ -63,8 +72,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concepts.patterns.Pattern1" />
+      <module name="bhagvati.basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concepts.patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concepts.patterns.Pattern2" />
+      <module name="bhagvati.basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concepts.patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concepts.patterns.pattern3" />
+      <module name="bhagvati.basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concepts.patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concepts.patterns.pattern4" />
+      <module name="bhagvati.basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concepts.patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern4" />
+        <item itemvalue="Application.pattern3" />
+        <item itemvalue="Application.Pattern2" />
+        <item itemvalue="Application.Pattern1" />
         <item itemvalue="Application.PassByRefDemo" />
       </list>
     </recent_temporary>
@@ -81,7 +146,9 @@
       <workItem from="1646681957383" duration="7000" />
       <workItem from="1649881888453" duration="862000" />
       <workItem from="1649884042637" duration="401000" />
-      <workItem from="1651953183568" duration="1212000" />
+      <workItem from="1651953183568" duration="2813000" />
+      <workItem from="1652783108012" duration="17000" />
+      <workItem from="1653503440026" duration="2656000" />
     </task>
     <servers />
   </component>
