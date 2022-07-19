@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28ececb4-5e02-4af7-85a0-a815b633fdca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/concepts/patterns/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concepts/patterns/Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concepts/patterns/pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concepts/patterns/pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/IntersectionOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sof/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sof/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sof/world_a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/RefExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concepts/conversion/Conversion1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concepts/conversion/Conversion1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concepts/java/PassByRefDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concepts/java/PassByRefDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +28,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="docker-desktop" />
@@ -48,7 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="GitIgnore" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tutorials/spring-ejb" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -57,14 +68,16 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4586207" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.pattern4">
-    <configuration name="PassByRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concepts.java.PassByRefDemo" />
+  <component name="RunManager" selected="Application.RefExample">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sof.B" />
       <module name="bhagvati.basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concepts.java.*" />
+          <option name="PATTERN" value="sof.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concepts.patterns.Pattern1" />
+    <configuration name="Conversion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concepts.conversion.Conversion1" />
       <module name="bhagvati.basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concepts.patterns.*" />
+          <option name="PATTERN" value="concepts.conversion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concepts.patterns.Pattern2" />
+    <configuration name="IntersectionOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.IntersectionOfArray" />
       <module name="bhagvati.basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concepts.patterns.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concepts.patterns.pattern3" />
+    <configuration name="RefExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.RefExample" />
       <module name="bhagvati.basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concepts.patterns.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RefExample" />
+        <item itemvalue="Application.Conversion1" />
+        <item itemvalue="Application.B" />
+        <item itemvalue="Application.IntersectionOfArray" />
         <item itemvalue="Application.pattern4" />
-        <item itemvalue="Application.pattern3" />
-        <item itemvalue="Application.Pattern2" />
-        <item itemvalue="Application.Pattern1" />
-        <item itemvalue="Application.PassByRefDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -148,11 +161,42 @@
       <workItem from="1649884042637" duration="401000" />
       <workItem from="1651953183568" duration="2813000" />
       <workItem from="1652783108012" duration="17000" />
-      <workItem from="1653503440026" duration="2656000" />
+      <workItem from="1653503440026" duration="3337000" />
+      <workItem from="1653578471046" duration="1522000" />
+      <workItem from="1653580945772" duration="1302000" />
+      <workItem from="1653865375094" duration="1455000" />
+      <workItem from="1653917947045" duration="2702000" />
+      <workItem from="1654362155013" duration="620000" />
+      <workItem from="1655721826423" duration="607000" />
+      <workItem from="1656352872759" duration="9392000" />
+      <workItem from="1656793220856" duration="1143000" />
+      <workItem from="1657008752874" duration="818000" />
+      <workItem from="1657036742546" duration="1945000" />
+      <workItem from="1657785923312" duration="2310000" />
+      <workItem from="1657796118629" duration="381000" />
+      <workItem from="1657822788171" duration="4487000" />
+      <workItem from="1658191571897" duration="919000" />
+      <workItem from="1658251300686" duration="281000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/IntersectionOfArray.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/IntersectionOfArray.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
